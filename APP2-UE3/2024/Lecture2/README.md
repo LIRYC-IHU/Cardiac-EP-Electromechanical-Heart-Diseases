@@ -1,8 +1,8 @@
-# Lecture 1 : 2D signal processing
+# Lecture 1 : 3D Data representation 
 
-Title : TODO
+Title : Basic reconstruction using Python
 
-Schedule : November 25, 2024 | 14:00-16:15 
+Schedule : November 25, 2024 | 16:15-18:30 
 
 Speaker: Valéry Ozenne
 
@@ -12,7 +12,7 @@ TODO
 
 ## Exercice 2
 
-TODO
+
 
 
 
