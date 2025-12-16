@@ -6,6 +6,20 @@ Schedule : November 25, 2024 | 14:00-16:15
 
 Speaker: Valéry Ozenne
 
+## Summary
+
+- [Lecture 1 : 2D signal processing](#lecture-1--2d-signal-processing)
+  - [Summary](#summary)
+  - [Objectives](#objectives)
+  - [Exercice 1: apply a threshold](#exercice-1-apply-a-threshold)
+  - [Exercice 2: make the convolution filter](#exercice-2-make-the-convolution-filter)
+  - [Exercice 3: apply mulitple convolution filters](#exercice-3-apply-mulitple-convolution-filters)
+  - [Exercice 4: apply again convolution filter](#exercice-4-apply-again-convolution-filter)
+
+## Objectives
+
+Blabla
+
 ## Exercice 1: apply a threshold
 
 * open 3D Slicer then go to the download sample dataset tab and download the CTChest dataset
@@ -52,7 +66,7 @@ plt.subplot(122)
 plt.imshow(slice_for_threshold, cmap='gray')
 ```
 
-## Exercice 2
+## Exercice 2: make the convolution filter
 
 Compute the convolution of the following image `I` with the following kernel `K`
 
@@ -72,7 +86,7 @@ print("K =", K)
    
 
 
-## Exercice 2
+## Exercice 3: apply mulitple convolution filters
 
 Compute the convolution of the following image `I` with the following kernels `H` for detecting edge, or corner.
 
@@ -104,10 +118,9 @@ plt.subplot(131)
 plt.imshow(H)
 ```
 
-## Exercice 3
+## Exercice 4: apply again convolution filter
 
 Load the astronaut image and apply a convolution filter with the fonction convolve2d to detect the edge.
-
 
 ```
 import matplotlib.pyplot as plt
@@ -121,14 +134,3 @@ plt.imshow(grey, cmap='gray')
 print(np.shape(image))
 ```
 
-
-## Summary
-
- - [Foreword](#foreword)
- - [Installation](#installation)
- - [Sequence and Data](#sequence-and-data)
- - [Objectives](#objectives)
- - [A typical Python Gadget](#a-typical-python-gadget)
- - [My first Python Gadget](#my-first-python-gadget)
-   - [Writing the gadget](#writing-the-gadget)
-   - [Writing the XML chain](#writing-the-xml-chain)
