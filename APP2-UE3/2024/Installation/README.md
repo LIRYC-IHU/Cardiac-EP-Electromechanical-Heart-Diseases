@@ -14,7 +14,7 @@ The lecture features several exercises, as well as live demos during which you m
  - [Paraview](https://www.paraview.org/)
  - [3DSlicer](https://www.slicer.org/)
  - [itksnap](http://www.itksnap.org/pmwiki/pmwiki.php)
- - 
+  
 ## A comfortable text editor
 
 - [vscode](https://code.visualstudio.com/)
@@ -33,8 +33,8 @@ cd /somewhere/imaging-processing-course/
 
 # create and activate a virtual python environments
 python3 -m venv venv-imaging-course 
-activate venv- imaging-course /bin/activate
+activate venv-imaging-course/bin/activate
 # install a few library
 pip install numpy pyvista pydicom simpleITK pynrrd 
-pip install scikit-learn
+pip install scikit-learn matplotlib
 ```
