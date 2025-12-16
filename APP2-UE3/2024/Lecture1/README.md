@@ -11,15 +11,25 @@ Speaker: Valéry Ozenne
 - [Lecture 1 : 2D signal processing](#lecture-1--2d-signal-processing)
   - [Summary](#summary)
   - [Objectives](#objectives)
+  - [Ressources](#ressources)
+  - [PRe-requisites:](#pre-requisites)
   - [Exercice 1: apply a threshold](#exercice-1-apply-a-threshold)
   - [Exercice 2: make the convolution filter](#exercice-2-make-the-convolution-filter)
   - [Exercice 3: apply mulitple convolution filters](#exercice-3-apply-mulitple-convolution-filters)
   - [Exercice 4: apply again convolution filter](#exercice-4-apply-again-convolution-filter)
+    - [To go further](#to-go-further)
 
 ## Objectives
 
-Blabla
+* Being familiar with 2D convolution in image processing 
+* Understanding the purposes and potential applications in computer vision such feature detection
 
+## Ressources
+
+## PRe-requisites:
+
+* open this page [SAM](https://aidemos.meta.com/segment-anything/gallery), then read the relevant documentation [SAM documentation](https://docs.ultralytics.com/models/sam/)
+  
 ## Exercice 1: apply a threshold
 
 * open 3D Slicer then go to the download sample dataset tab and download the CTChest dataset
@@ -134,3 +144,9 @@ plt.imshow(grey, cmap='gray')
 print(np.shape(image))
 ```
 
+### To go further
+
+* [nice explanation](https://www.youtube.com/watch?v=2KMwRUd3hcM)
+* [interactive website 1](https://bjbodner.github.io/dataScienceProjects/src/visualizations/interactive_conv2d.html)
+* * [interactive website 2](https://poloclub.github.io/cnn-explainer/)
+* https://wandb.ai/ayush-thakur/dl-question-bank/reports/Intuitive-understanding-of-1D-2D-and-3D-convolutions-in-convolutional-neural-networks---VmlldzoxOTk2MDA
