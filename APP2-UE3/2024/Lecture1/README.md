@@ -12,7 +12,7 @@ Speaker: Valéry Ozenne
   - [Summary](#summary)
   - [Objectives](#objectives)
   - [Ressources](#ressources)
-  - [PRe-requisites:](#pre-requisites)
+  - [Pre-requisites](#pre-requisites)
   - [Exercice 1: apply a threshold](#exercice-1-apply-a-threshold)
   - [Exercice 2: make the convolution filter](#exercice-2-make-the-convolution-filter)
   - [Exercice 3: apply mulitple convolution filters](#exercice-3-apply-mulitple-convolution-filters)
@@ -26,9 +26,9 @@ Speaker: Valéry Ozenne
 
 ## Ressources
 
-## PRe-requisites:
+## Pre-requisites
 
-* open this page [SAM](https://aidemos.meta.com/segment-anything/gallery), then read the relevant documentation [SAM documentation](https://docs.ultralytics.com/models/sam/)
+* open this page [SAM](https://aidemos.meta.com/segment-anything/gallery), then test the exemple coutour line for isntance. You could read the relevant documentation [SAM documentation](https://docs.ultralytics.com/models/sam/), I mean juste the begin that explain the purpose and application of SAM.
   
 ## Exercice 1: apply a threshold
 
