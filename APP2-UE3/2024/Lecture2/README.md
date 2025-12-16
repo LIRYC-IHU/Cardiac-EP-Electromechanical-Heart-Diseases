@@ -6,9 +6,17 @@ Schedule : November 25, 2024 | 16:15-18:30
 
 Speaker: Valéry Ozenne
 
+## Exercice 1: dicom tags
+
+[dicom-tags](https://www.dicomlibrary.com/dicom/dicom-tags/)
+
+[image-plane](https://dicom.innolitics.com/ciods/rt-dose/image-plane/00200037)
+
+[pydicom](https://github.com/pydicom/pydicom)
+
 ## Exercice 1
 
-TODO
+[what-is-a-mesh](https://docs.pyvista.org/user-guide/what-is-a-mesh)
 
 ## Exercice 2
 
