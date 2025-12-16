@@ -148,5 +148,5 @@ print(np.shape(image))
 
 * [nice explanation](https://www.youtube.com/watch?v=2KMwRUd3hcM)
 * [interactive website 1](https://bjbodner.github.io/dataScienceProjects/src/visualizations/interactive_conv2d.html)
-* * [interactive website 2](https://poloclub.github.io/cnn-explainer/)
+* [interactive website 2](https://poloclub.github.io/cnn-explainer/)
 * https://wandb.ai/ayush-thakur/dl-question-bank/reports/Intuitive-understanding-of-1D-2D-and-3D-convolutions-in-convolutional-neural-networks---VmlldzoxOTk2MDA
